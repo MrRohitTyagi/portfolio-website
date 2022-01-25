@@ -1,0 +1,33 @@
+body{
+    background-color:blanchedalmond
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    /* background-color:re; */
+    text-align: center;
+    /* color: */
+      
+}
+p{
+    color:darkblue;
+    margin-left: 1rem;
+    font-size: large;
+}
+
+.sm{
+    height: 3rem;
+    ;
+}
+.projects{
+    height: 15rem;
+}
+h1 div{
+    justify-content: flex-start;
+    
+}
+ul{
+    color:darkblue;
+    /* margin-left: 1rem; */
+    font-size: large;
+
+}
